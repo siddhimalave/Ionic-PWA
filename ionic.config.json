@@ -1,0 +1,7 @@
+{
+  "name": "expt_09",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
